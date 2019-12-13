@@ -3,13 +3,13 @@
 import os
 
 # default language ['en'|'ko'|'ja']
-DEFAULT_LANG = 'ja'
+DEFAULT_LANG = 'en'
 
 # TimeZone
 TZone = "Asia/Tokyo"
 
 # account
-ADMIN_ACCOUNT = "gbptest@lwbottest"
+ADMIN_ACCOUNT = "mintwinsr@lwbottest"
 DOMAIN_ID = 153856
 
 # api
@@ -23,8 +23,8 @@ SECRET_KEY_NAME = "private_20191212114227.key"
 LOCAL_ADDRESS = "https://lwbottest-gbp.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-107-21-120-104.compute-1.amazonaws.com"
-DB_NAME = "d5kvbqvgslj4hm"
-DB_USER = "kzkvlxshnvskrq"
+DB_HOST = "ec2-174-129-255-35.compute-1.amazonaws.com"
+DB_NAME = "da1nu2akov8p6s"
+DB_USER = "fqjdymoydqzwiz"
 DB_PORT = "5432"
-DB_PASSWORD = "f67e4b89b3b9d273464cbf4d9189abe8a8503e0211f7748ab14eb4ea82cb7492"
+DB_PASSWORD = "526cca05c1d29fb8deab36fa079991d340644d159eff39bfc88bc258e79e98ed"
